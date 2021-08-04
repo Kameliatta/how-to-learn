@@ -336,6 +336,7 @@
 .footer__column {
   display: flex;
   flex-direction: column;
+  color: white;
 }
 .footer__column_content-copyright {
   flex-basis: 711px;
@@ -346,7 +347,6 @@
   height: 35px;
 }
 .footer__author {
-  color: white;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
