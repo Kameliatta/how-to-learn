@@ -10,7 +10,7 @@
 }
 
 .header {
-  color: #F2F2F2;
+  background-color: #F2F2F2;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
@@ -42,7 +42,6 @@
   z-index: 1;
 }
 .header__title {
-  color: black;
   line-height: 96px;
   font-size: 102px;
   display: flex;
@@ -53,7 +52,6 @@
   z-index: 3;
 }
 .header__subtitle {
-  color: black;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
